@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ラッキー・ブルート",
+  "base_artist": "Ado",
+  "createdAt": "2026-02-22T06:11:41.665047Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_ラッキー・ブルート_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_ラッキー・ブルート_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート",
+      "artist": "柊キライ",
+      "has_synced": false,
+      "path": "select/03_ラッキー・ブルート_柊キライ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート - Lucky Bruto",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_ラッキー・ブルート_-_Lucky_Bruto_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "【Ado】Lucky Bruto / ラッキー・ブルート",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/05_【Ado】Lucky_Bruto___ラッキー・ブルート_Ado.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート",
+      "artist": "Hiiragi Kirai",
+      "has_synced": true,
+      "path": "select/06_ラッキー・ブルート_Hiiragi_Kirai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lucky Bruto (ラッキー・ブルート)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_Lucky_Bruto_(ラッキー・ブルート)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "【Ado】ラッキー・ブルート",
+      "artist": "【Ado】ラッキー・ブルート",
+      "has_synced": false,
+      "path": "select/08_【Ado】ラッキー・ブルート_【Ado】ラッキー・ブルート.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_ラッキー・ブルート_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート (Lucky Bruto)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_ラッキー・ブルート_(Lucky_Bruto)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラッキー・ブルート",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_ラッキー・ブルート_Ado.txt"
+    }
+  ]
+}
